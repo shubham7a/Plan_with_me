@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plan_with_me/static/css/main.89d77fd9.css",
+    "main.js": "/Plan_with_me/static/js/main.2b1c3d6c.js",
+    "index.html": "/Plan_with_me/index.html",
+    "main.89d77fd9.css.map": "/Plan_with_me/static/css/main.89d77fd9.css.map",
+    "main.2b1c3d6c.js.map": "/Plan_with_me/static/js/main.2b1c3d6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89d77fd9.css",
+    "static/js/main.2b1c3d6c.js"
+  ]
+}
